@@ -1,0 +1,4 @@
+- the vs generator is updated to have support for clang properly for ue4.27
+- updated ubt build system to dotnet8 correctly
+- new git dependencies script to automatically fix shit, just use ai to port it it's literally just a shitty one liner that deletes unused stuff
+- new clang database gen to prevent pc from being set on fire parsing through the compile_commands.json 💀
